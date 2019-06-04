@@ -1,0 +1,15 @@
+.row {
+    text-align: center;
+}
+
+#music {
+    display: inline-block;
+}
+
+#sports {
+    display: inline-block;
+}
+
+#animals {
+    display: inline-block;
+}
